@@ -25,19 +25,24 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1600" height="1550" alt="image" src="https://github.com/user-attachments/assets/8e22ef9a-ed7a-4e5c-828b-16406cb49545" />
 
 
 
 **Model graph:**
 
+![WhatsApp Image 2026-03-22 at 10 19 05 PM](https://github.com/user-attachments/assets/5625642d-2396-4db6-815e-bbbb407a6cd3)
 
 
 
 **TABULATION:**
 
+![WhatsApp Image 2026-03-22 at 10 19 19 PM](https://github.com/user-attachments/assets/a0d8fe0c-0526-403f-864a-841abd91744e)
+
 
 **Calculation:**
 
+![WhatsApp Image 2026-03-22 at 10 19 36 PM](https://github.com/user-attachments/assets/865968af-eef6-49ef-87bc-1d5d6a4bc1b6)
 
 
 
